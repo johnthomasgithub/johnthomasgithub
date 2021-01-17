@@ -15,8 +15,8 @@ Here are some of the links of my works,
  * [Smartfarms](https://johnthomasgithub.github.io/MiniProjects.io/Smartfarms).
  * [Music](https://johnthomasgithub.github.io/MiniProjects.io/music).
  * [Portfolio](https://johnthomasgithub.github.io/Portfolio.io/portfolio).
- * [Zeplin 1](https://johnthomasgithub.github.io/Tasks.io/Task 1).
- * [Zeplin 2](https://johnthomasgithub.github.io/Tasks.io/Task 2).
+ * [Zeplin 1](https://johnthomasgithub.github.io/Tasks.io/Task%201/).
+ * [Zeplin 2](https://johnthomasgithub.github.io/Tasks.io/Task%202/).
  
 <a href="https://twitter.com/John27942316?s=09">
   <img align="left" alt="John's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
