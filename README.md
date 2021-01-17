@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/John27942316?s=09)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Iam very Happy
+Here are some of the links of my works,
+[Smartfarms](https://johnthomasgithub.github.io/MiniProjects.io/Smartfarms).
 
 <a href="https://twitter.com/John27942316?s=09">
   <img align="left" alt="John's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
