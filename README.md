@@ -1,5 +1,6 @@
 ### Hi there 👋,Iam John
 
+<img align="right" alt="JPG" src="https://github.com/johnthomasgithub/johnthomasgithub/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 Here are some ideas to get you started:
 
