@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/John27942316?s=09)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Iam very Happy
-[![John's github stats](https://github-readme-stats.vercel.app/api?username=johnthomasgithub)](https://github.com/johnthomasgithub/github-readme-stats)
+ 
+ [![John's github stats](https://github-readme-stats.vercel.app/api?username=johnthomasgithub)](https://github.com/johnthomasgithub/github-readme-stats)
