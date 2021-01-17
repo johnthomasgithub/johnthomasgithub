@@ -1,6 +1,6 @@
 ### Hi there 👋,Iam John
 
-<img align="right" alt="JPG" src="https://github.com/johnthomasgithub/johnthomasgithub/blob/main/coding.jpg?raw=true" width="460" height="280" />
+<img align="right" alt="JPG" src="https://github.com/johnthomasgithub/johnthomasgithub/blob/main/coder.jpg?raw=true" width="460" height="280" />
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Iam very Happy
 
- [![John's github stats](https://github-readme-stats.vercel.app/api?username=johnthomasgithub)](https://github.com/johnthomasgithub/github-readme-stats)
+<a href="https://twitter.com/John27942316?s=09">
+  <img align="left" alt="John's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/john-thomas-505b0a1b5/">
+  <img align="left" alt="John's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox">
+  <img align="left" alt="john's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
