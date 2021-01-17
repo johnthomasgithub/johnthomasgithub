@@ -1,6 +1,6 @@
 ### Hi there 👋,Iam John
 
-<img align="right" alt="JPG" src="https://github.com/johnthomasgithub/johnthomasgithub/blob/main/coder.jpg?raw=true" width="460" height="280" />
+<img align="right" alt="JPG" src="https://github.com/johnthomasgithub/johnthomasgithub/blob/main/coding.jpg?raw=true" width="460" height="280" />
 
 Here are some ideas to get you started:
 
