@@ -2,7 +2,7 @@
 
 <img align="right" alt="JPG" src="https://github.com/johnthomasgithub/johnthomasgithub/blob/main/co.jpg?raw=true" width="460" height="280" />
 
-Here are some ideas to get you started:
+#### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on front end development.
 - 🌱 I’m currently learning application development.
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Iam very Happy.
 
-Here are some of the links of my works,
+#### Here are some of the links of my works,
  * [Smartfarms](https://johnthomasgithub.github.io/MiniProjects.io/Smartfarms).
  * [Music](https://johnthomasgithub.github.io/MiniProjects.io/music).
  * [Portfolio](https://johnthomasgithub.github.io/Portfolio.io/portfolio).
