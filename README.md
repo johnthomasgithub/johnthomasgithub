@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Iam very Happy.
 
-#### Here are some of the links of my works,
+#### Here are some of the links of my works:
  * [Smartfarms](https://johnthomasgithub.github.io/MiniProjects.io/Smartfarms).
  * [Music](https://johnthomasgithub.github.io/MiniProjects.io/music).
  * [Portfolio](https://johnthomasgithub.github.io/Portfolio.io/portfolio).
