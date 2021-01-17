@@ -11,3 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Iam very Happy
 
+<a href="https://twitter.com/John27942316?s=09">
+  <img align="left" alt="John's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/john-thomas-505b0a1b5/">
+  <img align="left" alt="John's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="https://mail.google.com/mail/u/0/#inbox">
+  <img align="left" alt="john's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
