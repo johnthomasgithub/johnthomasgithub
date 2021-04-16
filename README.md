@@ -17,6 +17,7 @@
  * [Portfolio](https://johnthomasgithub.github.io/Portfolio.io/portfolio).
  * [Zeplin 1](https://johnthomasgithub.github.io/Tasks.io/Task%201/).
  * [Zeplin 2](https://johnthomasgithub.github.io/Tasks.io/Task%202/).
+ * [TalentTn](https://johnthomasgithub.github.io/TalentTN/).
  
 <a href="https://twitter.com/John27942316?s=09">
   <img align="left" alt="John's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
