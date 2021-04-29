@@ -5,7 +5,7 @@
 #### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on front end development.
-- 🌱 I’m currently learning application development.
+- 🌱 I’m currently learning app dev,frontEnd Frameworks.
 - 💬 Ask me about Information Technology.
 - 📫 How to reach me: [Twitter](https://twitter.com/John27942316?s=09)
 - 😄 Pronouns: He/His
