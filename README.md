@@ -15,8 +15,8 @@
  * [Smartfarms](https://johnthomasgithub.github.io/MiniProjects.io/Smartfarms).
  * [Music](https://johnthomasgithub.github.io/MiniProjects.io/music).
  * [Portfolio](https://johnthomasgithub.github.io/Portfolio.io/portfolio).
- * [Zeplin 1](https://johnthomasgithub.github.io/Tasks.io/Task%201/).
- * [Zeplin 2](https://johnthomasgithub.github.io/Tasks.io/Task%202/).
+ * [Zeplin 1](https://johnthomasgithub.github.io/Task-2/).
+ * [Zeplin 2](https://johnthomasgithub.github.io/Task-2/).
  * [TalentTn](https://johnthomasgithub.github.io/TalentTN/).
  
 <a href="https://twitter.com/John27942316?s=09">
