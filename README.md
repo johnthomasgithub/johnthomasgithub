@@ -12,8 +12,8 @@
 - ⚡ Fun fact: Iam very Happy.
 
 #### Here are some of the links of my works:
- * [Smartfarms](https://johnthomasgithub.github.io/MiniProjects.io/Smartfarms).
- * [Music](https://johnthomasgithub.github.io/MiniProjects.io/music).
+ * [Smartfarms](https://johnthomasgithub.github.io/SmartFarms/).
+ * [Music](https://johnthomasgithub.github.io/Music/).
  * [Portfolio](https://johnthomasgithub.github.io/Portfolio.io/portfolio).
  * [Zeplin 1](https://johnthomasgithub.github.io/Task-1/).
  * [Zeplin 2](https://johnthomasgithub.github.io/Task-2/).
