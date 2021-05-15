@@ -1,4 +1,4 @@
-### Hi there 👋,Iam John
+### Hi there 👋,Iam John.
 
 <img align="right" alt="JPG" src="https://github.com/johnthomasgithub/johnthomasgithub/blob/main/co.jpg?raw=true" width="460" height="280" />
 
