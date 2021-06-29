@@ -10,6 +10,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/John27942316?s=09)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Iam very Happy.
+-  ❗ Currently Intern @ [Senseforth](https://www.senseforth.ai/)
 
 #### Here are some of the links of my works:
  * [Smartfarms](https://johnthomasgithub.github.io/SmartFarms/).
