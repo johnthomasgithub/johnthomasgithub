@@ -8,5 +8,4 @@
 - 🌱 I’m currently Exploring IT industry.
 - 💬 Ask me about Information Technology.
 - ⚡ Fun fact: Iam very Happy.
-- ❗ Currently Engineer @ [Senseforth](https://www.senseforth.ai/)
-
+- ❗ Currently Engineer @ [Senseforth](https://codemagen.com/)
